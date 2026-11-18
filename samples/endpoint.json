@@ -1,0 +1,5 @@
+
+[
+  {"source":"synthetic-endpoint","external_id":"demo-01","timestamp":"2026-08-05T10:06:00Z","severity":"Medium","title":"Endpoint policy warning","entity":"demo-host-17"},
+  {"source":"synthetic-endpoint","external_id":"demo-02","timestamp":"2026-08-05T10:12:00Z","severity":"Low","title":"Endpoint inventory check","entity":"demo-host-17"}
+]

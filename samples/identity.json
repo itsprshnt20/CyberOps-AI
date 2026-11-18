@@ -1,0 +1,5 @@
+
+[
+  {"source":"synthetic-identity","external_id":"demo-01","timestamp":"2026-08-05T10:00:00Z","severity":"High","title":"Repeated sign-in failures","entity":"demo-host-17"},
+  {"source":"synthetic-identity","external_id":"demo-unrelated","timestamp":"2026-08-05T10:03:00Z","severity":"Low","title":"Routine sign-in review","entity":"demo-host-22"}
+]

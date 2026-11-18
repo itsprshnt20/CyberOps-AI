@@ -1,0 +1,11 @@
+.env
+.env.*
+.venv/
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+*.db*
+*.sqlite*
+*.zip
+data/
+dist/
